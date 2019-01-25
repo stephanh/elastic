@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IndexDocumentMapping","A wrapper type for serialising user types."]],"trait":[["DocumentType","An indexable Elasticsearch type."],["StaticIndex","An indexable Elasticsearch type with a static index."],["StaticType","An indexable Elasticsearch type with a static document type."]]});

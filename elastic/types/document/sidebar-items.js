@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["mapping","Mapping for Elasticsearch document types. "],["prelude","Includes all types for document types."]],"struct":[["EmptyPropertiesMapping","Mapping for an anonymous json object. "],["FieldDocumentMapping","A wrapper type for serialising user types as fields. "],["ValueObjectMapping","Mapping for an anonymous json object. "]]});
